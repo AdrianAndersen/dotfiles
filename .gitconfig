@@ -1,0 +1,10 @@
+[user]
+	name = Adrian Andersen
+	email = adrianandersen@protonmail.com
+	signingkey = 7FDFA569C078C485
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[core]
+	editor = nvim -f
